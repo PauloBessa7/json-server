@@ -1,14 +1,16 @@
-[
-  {
-    "question": "Como posso recuperar minha senha?",
-    "answer": "Você pode recuperar sua senha clicando em 'Esqueci minha senha' na tela de login."
-  },
-  {
-    "question": "Onde posso ver meus pedidos?",
-    "answer": "Você pode ver seus pedidos na seção 'Meus Pedidos' em sua conta."
-  },
-  {
-    "question": "Posso cancelar meu pedido?",
-    "answer": "Sim, você pode cancelar seu pedido até 24 horas após a compra."
-  }
-]
+{
+    "faq" : [
+            {
+              "question": "Como posso recuperar minha senha?",
+              "answer": "Você pode recuperar sua senha clicando em 'Esqueci minha senha' na tela de login."
+            },
+            {
+              "question": "Onde posso ver meus pedidos?",
+              "answer": "Você pode ver seus pedidos na seção 'Meus Pedidos' em sua conta."
+            },
+            {
+              "question": "Posso cancelar meu pedido?",
+              "answer": "Sim, você pode cancelar seu pedido até 24 horas após a compra."
+            }
+    ]
+}
