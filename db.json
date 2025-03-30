@@ -1,14 +1,16 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "FAQ": [
+      {
+        "question": "What is the purpose of this project?",
+        "answer": "This project is a simple FAQ page that provides answers to common questions."
+      },
+      {
+        "question": "How do I use this project?",
+        "answer": "You can use this project by running it on a local server and accessing it through your web browser."
+      },
+      {
+        "question": "Where can I find more information?",
+        "answer": "You can find more information in the project's documentation or by contacting the project maintainers."
+      }
+    ]
   }
